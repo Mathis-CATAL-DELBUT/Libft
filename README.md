@@ -1,4 +1,4 @@
-# Libft + Subject + Tester
+# Libft + Subject + 2 Tester
 
 First project of 42: recode usual functions 
 
